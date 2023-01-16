@@ -1,0 +1,7 @@
+.titulo h1{
+    font-weight: 500;
+    font-size: 32px;
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+}
